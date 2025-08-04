@@ -1,0 +1,8 @@
+# 🗂️ File Sorter (Python)
+
+Sorts all files in a directory into folders by file type.
+
+## Usage
+
+```bash
+python sorter.py
